@@ -4,6 +4,7 @@ This "about me" is a work in progress, but this is what you can expect from me:
 
 ![image](https://github.com/carsonSgit/carsonSgit/assets/92652800/569d2b61-c7e1-4c97-a6e9-f24f7cf6acdd)
 
+***Joking..... coded in MAUI without a .gitignore***
 
 <!--
 **carsonSgit/carsonSgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
