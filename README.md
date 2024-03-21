@@ -8,6 +8,7 @@ This "about me" is a work in progress, but this is what you can expect from me:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carsonsgit&show_icons=true&theme=dracula&locale=en" alt="carsonsgit" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carsonsgit&label=Profile%20views&color=002b3b&style=flat" alt="carsonsgit" /> </p>
 
 
 <!--
