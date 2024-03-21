@@ -50,7 +50,19 @@ This "about me" is a work in progress, but this is what you can expect from me:
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
     </a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/maui/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/dotnet/maui/main/docs/images/maui-logo.svg" alt="MAUI" width="40" height="40"/>
+    </a>
+    <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="Jetpack Compose" width="40" height="40"/>
+    </a>
+    <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40"/>
+    </a>
+
 </p>
+
+
 
 <h3 align="left">Platforms and Tools:</h3>
 <p align="left">
