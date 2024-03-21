@@ -1,10 +1,6 @@
 ### 🙇‍♂️ Hi, I'm Carson!
 
-This "about me" is a work in progress, but this is what you can expect from me: 
-
-![image](https://github.com/carsonSgit/carsonSgit/assets/92652800/569d2b61-c7e1-4c97-a6e9-f24f7cf6acdd)
-
-***Joking..... coded in MAUI without a .gitignore***
+This "about me" is a work in progress !!
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carsonsgit&show_icons=true&theme=dracula&locale=en" alt="carsonsgit" /></p>
 <h3 align="left">Programming Languages:</h3>
