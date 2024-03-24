@@ -1,3 +1,5 @@
+<!-- Maybe use this: https://gprm.itsvg.in/ -->
+
 ### 🙇‍♂️ Hi, I'm Carson!
 
 This "about me" is a work in progress !!
@@ -22,8 +24,6 @@ This "about me" is a work in progress !!
 <code><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="30" height="30"/></code>
 
-
-
 <h3 align="left">Platforms and Tools:</h3>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="25" height="25"/></code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="25" height="25"/></code>
@@ -36,5 +36,4 @@ This "about me" is a work in progress !!
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="25" height="25"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="25"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="25" height="25"/> </code>
-
+<code><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="25" height="25"/></code>
