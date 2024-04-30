@@ -1,10 +1,6 @@
-<!-- Maybe use this: https://gprm.itsvg.in/ -->
+## 🙇‍♂️ Hi, I'm Carson!
 
-### 🙇‍♂️ Hi, I'm Carson!
-
-This "about me" is a work in progress !!
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carsonsgit&show_icons=true&theme=tokyonight&locale=en" alt="carsonsgit" /></p> -->
+> I'm a Computer Science Student in Montreal, QC with a passion for AI/ML!
 
 <h3 align="left">Programming Languages:</h3>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25"/></code>
