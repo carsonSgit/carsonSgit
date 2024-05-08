@@ -1,8 +1,13 @@
-## 🙇‍♂️ Hi, I'm Carson!
+## 👋 Hi, I'm Carson! 👨‍💻
 
-> I'm a Computer Science Student in Montreal, QC with a passion for AI/ML!
+I'm a **Computer Science enthusiast** based in Montreal, QC, with a passon for **AI/ML** and **Data Science**. I'm about to finish my CompSci degree at John Abbott College and will be enterring Concordia University this coming fall.
 
-<h3 align="left">Programming Languages:</h3>
+### About Me 🌟
+- 💡 My journey into CompSci started with a **Web Development course** at the YMCA
+- 🌱 Currently, I'm working on an **IoT project** developped using **Python** and **MAUI**, with **Microsoft Azure** as our IoT communication
+- 🎯 My dream career is one where I can apply **AI/ML in th world of environmental sciences**
+
+### Programming Languages 💻
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="25" height="25"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="25" height="25"/></code>
@@ -13,14 +18,14 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="25" height="25"/></code>
 
-<h3 align="left">Frameworks and Libraries:</h3>
+### Frameworks and Libraries 📚
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/></code>
 <code><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="30" height="30"/></code>
 
-<h3 align="left">Platforms and Tools:</h3>
+### Platforms and Tools 🔧
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="25" height="25"/></code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="25" height="25"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="25" height="25"/></code>
@@ -33,3 +38,7 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="25"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="25" height="25"/></code>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=carsonSgit&&style=flat-square" align="center" />
