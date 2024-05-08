@@ -5,7 +5,7 @@ I'm a **Computer Science enthusiast** based in Montreal, QC, with a passion for 
 ### About Me 🌟
 - 💡 My journey into CompSci started with a **Web Development course** at the YMCA
 - 🌱 Currently, I'm working on an **IoT project** developped using **Python** and **MAUI**, with **Microsoft Azure** as our IoT communication
-- 🎯 My dream career is one where I can apply **AI/ML in th world of environmental sciences**
+- 🎯 My dream career is one where I can apply **AI/ML** in the world of **environmental sciences**
 
 ### Programming Languages 💻
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25"/></code>
