@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Carson! 👨‍💻
 
-I'm a **Computer Science enthusiast** based in Montreal, QC, with a passion for **AI/ML** and **Data Science**. I'm about to finish my CompSci degree at John Abbott College and will be enterring Concordia University this coming fall.
+I'm a **Computer Science enthusiast** based in Montreal, QC, with a passion for **AI/ML** and **Data Science**. I'm about to finish my CompSci degree at John Abbott College and will be entering Concordia University this coming fall.
 
 ### About Me 🌟
 - 💡 My journey into CompSci started with a **Web Development course** at the YMCA
