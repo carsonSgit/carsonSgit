@@ -7,8 +7,6 @@ I'm a **Computer Science student** from Montreal, QC. I'm passionate about **AI/
 - 🌱 Looking for **hackathons** to attend
 - 🎯 Always interested in **new technologies**
 
-<br />
-
 > I don't know if you can tell, but I like to **bold** my text
 
 <img src="https://komarev.com/ghpvc/?username=carsonSgit&&style=flat-square" align="center" />
