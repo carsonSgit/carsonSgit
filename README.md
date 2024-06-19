@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Carson! 👨‍💻
 
-I'm a **Computer Science student** from Montreal, QC. I'm passionate about **AI/ML** and **Data Science** and their potential impact on the environmental sciences.
+I'm a student from Montreal, QC. I'm passionate about **AI/ML** and **Data Science** and their potential impact on the environmental sciences!
 
 ### About Me 🌟
 - 💡 Currently **interning at Tail'ed**
