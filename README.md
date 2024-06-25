@@ -1,5 +1,6 @@
-## 👋 Hi, I'm Carson! 👨‍💻
+![212284136-03988914-d899-44b4-b1d9-4eeccf656e44](https://github.com/carsonSgit/carsonSgit/assets/92652800/6cdcbdc9-78e7-4e1a-ab11-e9fe3cb9e622)
 
+## 👋 Hi, I'm Carson! 👨‍💻
 I'm a student from Montreal, QC. I'm passionate about **AI/ML** and **Data Science** and their potential impact on the environmental sciences!
 
 ### About Me 🌟
