@@ -12,7 +12,8 @@ I'm a student from Montreal, QC. I'm passionate about **AI/ML** and **Data Scien
 - 🎯 Always interested in **new technologies**
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=carsonSgit&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carsonSgit&hide=css,mermaid,html,Jupyter%20Notebook&hide_progress=true&custom_title=Public%20Code%20Written) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carsonSgit&hide=css,mermaid,html,Jupyter%20Notebook&hide_progress=true&custom_title=Public%20Code%20Written&langs_count=8) -->
+
 <img src="https://komarev.com/ghpvc/?username=carsonSgit&&style=flat-square" align="center" />
 
 
