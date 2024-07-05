@@ -4,7 +4,7 @@
 
 <h1>Hi, I'm Carson! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-I'm a student from Montreal, QC. I'm passionate about **AI/ML** and **Data Science** and their potential impact on the environmental sciences!
+I'm a student at Concordia University. I'm passionate about **AI/ML** and **Data Science** and their potential impact on the environmental sciences!
 
 ### About Me 🌟
 - 💡 Currently **interning at Tail'ed**
