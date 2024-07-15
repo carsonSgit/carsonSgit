@@ -8,7 +8,7 @@ I'm an upcoming student at Concordia University. I'm passionate about **AI/ML** 
 
 ### About Me 🌟
 - 💡 Currently **interning at Tail'ed**
-- 🌱 Working on some cool stuff over @ Noca Studios
+- 🌱 Working on some cool stuff over @ [Noca Studios](https://github.com/Noca-Studios)
 - 🎯 Always interested in **new technologies**
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carsonSgit&hide=css,mermaid,html,Jupyter%20Notebook&hide_progress=true&custom_title=Public%20Code%20Written&langs_count=8) -->
