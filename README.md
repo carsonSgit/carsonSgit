@@ -10,7 +10,7 @@ I'm an upcoming student at Concordia University. I'm passionate about **AI/ML** 
 - 💡 Currently **interning at Tail'ed**
 - 🌱 Working on some cool stuff over @ [Cano Studios](https://github.com/Cano-Studios)
 - 🎯 Always interested in **new technologies**
-- 👨‍💻 I sometimes write *blog posts* over at my [Dev.to](https://dev.to/carsonsgit)
+- 👨‍💻 I sometimes write *blog posts* over at my [Dev.to](https://dev.to/carsonsgit) and [Medium](https://medium.com/@carsonspriggs6)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carsonSgit&hide=css,mermaid,html,Jupyter%20Notebook&hide_progress=true&custom_title=Public%20Code%20Written&langs_count=8) -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=carsonSgit&theme=transparent&hide_border=true&border_radius=30)](https://git.io/streak-stats) -->
