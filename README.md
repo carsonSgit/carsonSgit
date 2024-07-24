@@ -7,7 +7,7 @@
 I'm an upcoming student at Concordia University. I'm passionate about **AI/ML** and **Data Science** and their potential impact on the environmental sciences!
 
 ### About Me 🌟
-- 💡 Currently **interning at Tail'ed**
+- 💡 Currently a SDE **intern at Tail'ed**
 - 🌱 Working on some cool stuff over @ [Cano Studios](https://github.com/Cano-Studios)
 - 🎯 Always interested in **new technologies**
 - 👨‍💻 I sometimes write *blog posts* over at my [Dev.to](https://dev.to/carsonsgit) and [Medium](https://medium.com/@carsonspriggs6)
