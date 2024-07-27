@@ -4,11 +4,11 @@
 
 <h1>Hi, I'm Carson! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-I'm an upcoming student at Concordia University. I'm passionate about **AI/ML** and **Data Science** and their potential impact on the environmental sciences!
+I'm an incoming student at Concordia University. I'm passionate about **AI/ML** and **Data Science** and their potential impact on the environmental sciences!
 
 ### About Me 🌟
 - 💡 Currently a **SDE intern at Tail'ed**
-- 🌱 Working on some cool stuff over *@* **[Cano Studios](https://github.com/Cano-Studios)**
+- 🌱 Learning/Working on some cool stuff over *@* **[Cano Studios](https://github.com/Cano-Studios)**
 - 🎯 Always interested in **new technologies**
 - 👨‍💻 I sometimes write some cool *blog posts* over *@* my **[Dev.to](https://dev.to/carsonsgit)** and **[Medium](https://medium.com/@carsonspriggs6)**
 
