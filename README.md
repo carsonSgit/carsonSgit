@@ -3,20 +3,27 @@
 
 <h1>Hi, I'm Carson! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-I'm an incoming student at Concordia University. I'm passionate about **AI/ML** and **Data Science** and their potential impact on the environmental sciences!
-
 ### About Me 🌟
-- 💡 Currently interning as a **Software Developer at Tail'ed**
-- 🌱 Learning/Working on some cool stuff over *@* **[Cano Studios](https://github.com/Cano-Studios)**
-- 🎯 Always interested in **new technologies**
-- 👨‍💻 I sometimes write some cool *blog posts* over *@* my **[Dev.to](https://dev.to/carsonsgit)** and **[Medium](https://medium.com/@carsonspriggs6)**
+- 🏫 Student at **Concordia University**
+- 💻 **SDE Intern** @ [**Tail'ed**](https://www.tailed.ca/en)
+- 🤖 Passionate about **AI/ML** and **Data Science**
+- ✍️ Writing cool blogs on **[Dev.to](https://dev.to/carsonsgit)** and **[Medium](https://medium.com/@carsonspriggs6)**
+
+---
+
+### Side stats 📊
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carsonSgit&hide=css,mermaid,html,Jupyter%20Notebook&hide_progress=true&custom_title=Public%20Code%20Written&langs_count=8&theme=tokyonight" />
+
+<img src="https://komarev.com/ghpvc/?username=carsonSgit&&style=for-the-badge" alt="Profile views" align="center" />
+
+---
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carsonSgit&hide=css,mermaid,html,Jupyter%20Notebook&hide_progress=true&custom_title=Public%20Code%20Written&langs_count=8" />
-<img src="https://streak-stats.demolab.com?user=carsonSgit&theme=transparent&hide_border=true&border_radius=30" />
+<img src="https://streak-stats.demolab.com?user=carsonSgit&theme=transparent&hide_border=true&border_radius=30" /> 
 <img height="240em" src="https://github-readme-stats.vercel.app/api?username=carsonSgit&show_icons=true&locale=en&theme=tokyonight" alt="carsonSgit" />
 -->
   
-<img src="https://komarev.com/ghpvc/?username=carsonSgit&&style=flat-square" align="center" />
 
 
