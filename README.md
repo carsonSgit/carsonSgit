@@ -17,8 +17,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=carsonSgit&&style=for-the-badge" alt="Profile views" align="center" />
 
----
-
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carsonSgit&hide=css,mermaid,html,Jupyter%20Notebook&hide_progress=true&custom_title=Public%20Code%20Written&langs_count=8" />
 <img src="https://streak-stats.demolab.com?user=carsonSgit&theme=transparent&hide_border=true&border_radius=30" /> 
