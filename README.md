@@ -13,7 +13,7 @@
 
 ### Side stats 📊
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carsonSgit&hide=css,mermaid,html,Jupyter%20Notebook,SCSS&hide_progress=true&custom_title=Public%20Code%20Written&langs_count=8&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carsonSgit&hide=css,mermaid,html,Jupyter%20Notebook,SCSS&hide_progress=true&custom_title=Public%20Code%20Written&langs_count=9&theme=tokyonight" />
 
 <img src="https://komarev.com/ghpvc/?username=carsonSgit&&style=for-the-badge" alt="Profile views" align="center" />
 
