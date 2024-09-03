@@ -5,7 +5,7 @@
 
 ### About Me 🌟
 - 🏫 Student at **Concordia University**
-- 💻 Prev **SDE Intern** @ [**Tail'ed**](https://www.tailed.ca/en)
+- 💻 Prev **SDE Intern** @ [**Tail'ed**](https://www.tailed.ca)
 - 🤖 Passionate about **AI/ML** and **Data Science**
 - ✍️ Writing cool blogs on **[Dev.to](https://dev.to/carsonsgit)** and **[Medium](https://medium.com/@carsonspriggs6)**
 
