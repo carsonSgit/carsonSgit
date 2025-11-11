@@ -1,6 +1,4 @@
-<p style="max-width: 100%; width: 100%; height: auto;">
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="Dino GIF" />
-</p>
+![](bigdinoloop.gif)
 
 ## Hi, I'm Carson! 🐧
 
@@ -10,9 +8,9 @@
 
 ### About Me
 
-- QA & Full-Stack Developer @ [Fundica](https://www.fundica.com/) | Prev SWE @ [Tail'ed](https://tailed.ca/)
-- EngTech & Applied Sciences @ [MUN](https://www.mun.ca/) | CS Alum @ [John Abbott College](https://johnabbott.qc.ca/)
-- Building an AI-automated accessibility tool
+- 👨‍💻 QA & Full-Stack Developer @ [Fundica](https://www.fundica.com/) | Prev SWE @ [Tail'ed](https://tailed.ca/)
+- 🏛️ EngTech & Applied Sciences @ [MUN](https://www.mun.ca/) | CS Alum @ [John Abbott College](https://johnabbott.qc.ca/)
+- 🤖 Building an AI-automated accessibility tool
 
 ### Find me here 
 
