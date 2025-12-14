@@ -8,9 +8,9 @@
 
 ### About Me
 
-- 👨‍💻 QA & Full-Stack Developer @ [Fundica](https://www.fundica.com/) | Prev SWE @ [Tail'ed](https://tailed.ca/)
-- 🏛️ EngTech & Applied Sciences @ [MUN](https://www.mun.ca/) | CS Alum @ [John Abbott College](https://johnabbott.qc.ca/)
-- 🤖 Building an AI-automated accessibility tool
+- 👨‍💻 QA & Full-Stack Developer @ [Fundica](https://www.fundica.com/)
+- 🏛️ EngTech & Applied Sciences @ [MUN](https://www.mun.ca/)
+- 🤖 Automating web accessibility with AI
 
 ### Find me here 
 
