@@ -8,7 +8,7 @@
 
 ### About Me
 
-- 👨‍💻 QA & Full-Stack Developer @ [Fundica](https://www.fundica.com/)
+- 👨‍💻 Full Stack @ [Botpress](https://botpress.com/)
 - 🏛️ EngTech & Applied Sciences @ [MUN](https://www.mun.ca/)
 - 🤖 Automating web accessibility with AI
 
