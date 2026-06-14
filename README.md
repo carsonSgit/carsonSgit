@@ -8,7 +8,7 @@
 
 ### About Me
 
-- 👨‍💻 Full Stack @ [Botpress](https://botpress.com/)
+- 👨‍💻 Full Stack @ [Qohash](https://qohash.com/)
 - 🏛️ EngTech & Applied Sciences @ [MUN](https://www.mun.ca/)
 - 🤖 Automating web accessibility with AI
 
