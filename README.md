@@ -1,21 +1,10 @@
 ![](bigdinoloop.gif)
 
-## Hi, I'm Carson! 🐧
+Hi! My name is Carson 🐧
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=carsonSgit&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="carsonSgit" />  
-</p>
+1. I really like penguins
+2. I do Applied AI @ [Qohash](https://www.qohash.com)
+3. I'm studying Engineering Technology & Applied Sciences at the [Marine Institute of Memorial University of Newfoundland](https://www.mi.mun.ca/)
+4. I spend a lot of time digging through GitHub repos to find cool projects
 
-### About Me
-
-- 👨‍💻 Full Stack @ [Qohash](https://qohash.com/)
-- 🏛️ EngTech & Applied Sciences @ [MUN](https://www.mun.ca/)
-- 🤖 Automating web accessibility with AI
-
-### Find me here 
-
-- 👨‍💻 Portfolio: [carsonspriggs.me](https://carsonspriggs.me)
-- 📬 Reach me at: [carsonspriggs8@gmail.com](mailto:carsonspriggs8@gmail.com)
-- 🏢 LinkedIn: [https://www.linkedin.com/in/carsonspriggs](https://www.linkedin.com/in/carsonspriggs)
-
-<h6>Currently exploring Infra & DevOps</h6>
+If you want to see a bit more about me, you can check out my portfolio at [carsonspriggs.com](https://carsonspriggs.com) _or_ on [LinkedIn](https://www.linkedin.com/in/carsonspriggs)
